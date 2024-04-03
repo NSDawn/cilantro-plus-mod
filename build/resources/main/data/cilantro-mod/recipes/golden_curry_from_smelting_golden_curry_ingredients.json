@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "cookingtime": 300,
+  "experience": 1.4,
+  "group": "golden_curry_ingredients",
+  "ingredient": {
+    "item": "cilantro-mod:golden_curry_ingredients"
+  },
+  "result": "cilantro-mod:golden_curry"
+}

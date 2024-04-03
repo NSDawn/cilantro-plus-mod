@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cilantro-mod:coriander_seeds"
+    },
+    {
+      "item": "minecraft:carrot"
+    },
+    {
+      "item": "minecraft:baked_potato"
+    },
+    {
+      "item": "minecraft:cooked_beef"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "result": {
+    "item": "cilantro-mod:golden_curry"
+  }
+}

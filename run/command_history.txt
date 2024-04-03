@@ -1,0 +1,50 @@
+/give @a cilant 64
+/give @a cilantr 64
+/give @a cilantro-mod:coriander_seeds 64
+/give @p cilantro-mod:cilantro
+/give @p cilantro-mod:sal
+/give @p cilantro-mod:salad
+/tp @p ~100 ~100 ~
+/gamemode creative
+/gamemode survival
+/effect give @s minecraft:hunger 5 255
+/give @a
+/give @a cilantro-mod:golden_curry
+/gamemode 0
+/gamerule doMo
+/gamerule doMobSpawning false
+/gamemode survival
+/give @p cilan
+/give @p cilantro-mod:cilantro
+/give @p cilantro-mod:coriander_seeds
+/give @p
+/give @p cilantro-mod:golden_curry_ingredients
+/gamemode
+/gamemode creative
+/gamemode survival
+/recipe take @s *
+/give @p
+/give @a cilantro-mod:golden_curry_ingredients
+/give @p cilantro-mod:golden_curry
+/give @p chest
+/clear
+/time set day
+/gamerule doDaylightCycle false
+/effect give @p minecraft:hunger 10 255
+/give
+/give @p
+/give @p cila
+/give @p cilantro-mod:cilantro
+/gamemode creative
+/gamemode survival
+/setblock ~ ~1 ~ chest{LootTable:"chests/jungle_temple"}
+/summon minecraft:sniffer
+/kill @e[type=minecraft:sniffer]
+/summon minecraft:sniffer ~ ~ ~
+/summon minecraft:sniffer ~ ~ ~\
+/kill @e[type=minecraft:sniffer]
+/gamemode creative
+/weather clear
+/gamerule doWeatherCycle false
+/fill ~ ~ ~ ~ ~20 ~ chest{LootTable:"chests/jungle_temple"}
+/gamemode creative

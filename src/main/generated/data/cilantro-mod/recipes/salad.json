@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cilantro-mod:cilantro"
+    },
+    {
+      "item": "minecraft:carrot"
+    },
+    {
+      "item": "minecraft:beetroot"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "result": {
+    "item": "cilantro-mod:salad"
+  }
+}

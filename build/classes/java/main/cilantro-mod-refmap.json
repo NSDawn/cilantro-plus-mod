@@ -1,0 +1,74 @@
+{
+  "mappings": {
+    "dev/nsdawn/cilantromod/mixin/AnimalEntityMixin": {
+      "isBreedingItem": "Lnet/minecraft/class_1429;method_6481(Lnet/minecraft/class_1799;)Z"
+    },
+    "dev/nsdawn/cilantromod/mixin/ChickenEntityMixin": {
+      "initGoals()V": "Lnet/minecraft/class_1428;method_5959()V",
+      "isBreedingItem": "Lnet/minecraft/class_1428;method_6481(Lnet/minecraft/class_1799;)Z"
+    },
+    "dev/nsdawn/cilantromod/mixin/ComposterBlockMixin": {
+      "registerDefaultCompostableItems()V": "Lnet/minecraft/class_3962;method_17758()V"
+    },
+    "dev/nsdawn/cilantromod/mixin/CowEntityMixin": {
+      "initGoals()V": "Lnet/minecraft/class_1430;method_5959()V"
+    },
+    "dev/nsdawn/cilantromod/mixin/ExampleMixin": {
+      "loadWorld": "Lnet/minecraft/server/MinecraftServer;method_3735()V"
+    },
+    "dev/nsdawn/cilantromod/mixin/GoatBrainMixin": {
+      "getTemptItems()V": "Lnet/minecraft/class_6054;getTemptItems()V"
+    },
+    "dev/nsdawn/cilantromod/mixin/PigEntityMixin": {
+      "initGoals()V": "Lnet/minecraft/class_1452;method_5959()V",
+      "isBreedingItem": "Lnet/minecraft/class_1452;method_6481(Lnet/minecraft/class_1799;)Z"
+    },
+    "dev/nsdawn/cilantromod/mixin/RabbitEntityMixin": {
+      "initGoals()V": "Lnet/minecraft/class_1463;method_5959()V",
+      "isBreedingItem": "Lnet/minecraft/class_1463;method_6481(Lnet/minecraft/class_1799;)Z"
+    },
+    "dev/nsdawn/cilantromod/mixin/SheepEntityMixin": {
+      "initGoals()V": "Lnet/minecraft/class_1472;method_5959()V"
+    },
+    "dev/nsdawn/cilantromod/mixin/SnifferBrainMixin": {
+      "getTemptItems()V": "Lnet/minecraft/class_8155;getTemptItems()V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "dev/nsdawn/cilantromod/mixin/AnimalEntityMixin": {
+        "isBreedingItem": "Lnet/minecraft/class_1429;method_6481(Lnet/minecraft/class_1799;)Z"
+      },
+      "dev/nsdawn/cilantromod/mixin/ChickenEntityMixin": {
+        "initGoals()V": "Lnet/minecraft/class_1428;method_5959()V",
+        "isBreedingItem": "Lnet/minecraft/class_1428;method_6481(Lnet/minecraft/class_1799;)Z"
+      },
+      "dev/nsdawn/cilantromod/mixin/ComposterBlockMixin": {
+        "registerDefaultCompostableItems()V": "Lnet/minecraft/class_3962;method_17758()V"
+      },
+      "dev/nsdawn/cilantromod/mixin/CowEntityMixin": {
+        "initGoals()V": "Lnet/minecraft/class_1430;method_5959()V"
+      },
+      "dev/nsdawn/cilantromod/mixin/ExampleMixin": {
+        "loadWorld": "Lnet/minecraft/server/MinecraftServer;method_3735()V"
+      },
+      "dev/nsdawn/cilantromod/mixin/GoatBrainMixin": {
+        "getTemptItems()V": "Lnet/minecraft/class_6054;getTemptItems()V"
+      },
+      "dev/nsdawn/cilantromod/mixin/PigEntityMixin": {
+        "initGoals()V": "Lnet/minecraft/class_1452;method_5959()V",
+        "isBreedingItem": "Lnet/minecraft/class_1452;method_6481(Lnet/minecraft/class_1799;)Z"
+      },
+      "dev/nsdawn/cilantromod/mixin/RabbitEntityMixin": {
+        "initGoals()V": "Lnet/minecraft/class_1463;method_5959()V",
+        "isBreedingItem": "Lnet/minecraft/class_1463;method_6481(Lnet/minecraft/class_1799;)Z"
+      },
+      "dev/nsdawn/cilantromod/mixin/SheepEntityMixin": {
+        "initGoals()V": "Lnet/minecraft/class_1472;method_5959()V"
+      },
+      "dev/nsdawn/cilantromod/mixin/SnifferBrainMixin": {
+        "getTemptItems()V": "Lnet/minecraft/class_8155;getTemptItems()V"
+      }
+    }
+  }
+}

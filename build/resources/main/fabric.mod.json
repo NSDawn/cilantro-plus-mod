@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "cilantro-mod",
+	"version": "1.0.0",
+	"name": "Cilantro Mod",
+	"description": "A Minecraft mod that adds Cilantro to the game, so I can learn how to use Fabric to make mods :)",
+	"authors": [
+		"nsdawn"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/cilantro-mod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"dev.nsdawn.cilantromod.CilantroMod"
+		],
+		"client": [
+			"dev.nsdawn.cilantromod.CilantroModClient"
+		],
+		"fabric-datagen": [
+			"dev.nsdawn.cilantromod.CilantroModDataGenerator"
+		]
+	},
+	"mixins": [
+		"cilantro-mod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.7",
+		"minecraft": "~1.20.4",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

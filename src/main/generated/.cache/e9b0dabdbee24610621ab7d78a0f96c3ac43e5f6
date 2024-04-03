@@ -1,0 +1,15 @@
+// 1.20.4	2024-04-02T19:40:16.328045	Cilantro Mod/Model Definitions
+33f6997c504cf9dfa44ca1156c91b1c0f26cb043 assets/cilantro-mod/blockstates/cilantro_crop.json
+34a7b1e3cc683ec7a881b061082348e31df0eae2 assets/cilantro-mod/models/block/cilantro_crop_stage1.json
+8f5970b151de383d8803c120d5236a1cc6ed617e assets/cilantro-mod/models/block/cilantro_crop_stage4.json
+405692b340fae70e204d5619e6152b6d01999b25 assets/cilantro-mod/models/item/golden_curry.json
+bced33dc8bcb7e56697a55a7696696b6bf64f802 assets/cilantro-mod/models/item/salad.json
+cd5e08185238c24c7662cf5b3a63f395cecba3b1 assets/cilantro-mod/models/item/cilantro.json
+f1c8c83599fe5628b2c5c7eed001001ad1e74e71 assets/minecraft/models/item/air.json
+05ef420a8a64a26b8a04f38e91445c71cc4a7af0 assets/cilantro-mod/models/item/golden_cilantro.json
+b37008de95ce85c5ade3c885926da4fde2b8a0fa assets/cilantro-mod/models/block/cilantro_crop_stage6.json
+798bb1b9b1a1ab12f770e900122707445dd4e436 assets/cilantro-mod/models/block/cilantro_crop_stage3.json
+1d340c7a0074db6dbb58dc6b9c4bbede7bd50a8c assets/cilantro-mod/models/block/cilantro_crop_stage0.json
+9bada18d7fe2097219130888713c2f589568348e assets/cilantro-mod/models/block/cilantro_crop_stage5.json
+1028769d777e9404140822e230159786ce83616a assets/cilantro-mod/models/item/golden_curry_ingredients.json
+d75a0657ab5f42d294bedaff812fe23a5b8820e0 assets/cilantro-mod/models/block/cilantro_crop_stage2.json

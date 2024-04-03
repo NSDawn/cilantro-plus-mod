@@ -1,0 +1,57 @@
+{
+  "cilantro-mod:recipes/food/golden_curry_ingredients": {
+    "criteria": {
+      "has_coriander_seeds": "2024-04-02 12:22:05 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2024-04-02 12:23:23 -0700"
+    },
+    "done": true
+  },
+  "cilantro-mod:recipes/food/salad": {
+    "criteria": {
+      "has_cilantro": "2024-04-02 12:22:05 -0700"
+    },
+    "done": true
+  },
+  "cilantro-mod:recipes/food/golden_curry": {
+    "criteria": {
+      "has_coriander_seeds": "2024-04-02 12:22:05 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2024-04-02 12:22:56 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-04-02 12:22:05 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2024-04-02 12:22:07 -0700"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-04-02 12:23:23 -0700"
+    },
+    "done": true
+  },
+  "cilantro-mod:recipes/food/golden_curry_from_smelting_golden_curry_ingredients": {
+    "criteria": {
+      "has_golden_curry_ingredients": "2024-04-02 12:22:28 -0700"
+    },
+    "done": true
+  },
+  "DataVersion": 3700
+}
